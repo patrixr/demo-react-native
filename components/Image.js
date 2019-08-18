@@ -11,7 +11,7 @@ import { Image }  from 'react-native';
  * @returns
  */
 export function UserAvatar({ user, circle = false, style = {} }) {
-  const radius = circle ? 100 : 20;
+  const radius = circle ? 50 : 20;
   return (
     <Image
       style={{ resizeMode: "cover", borderRadius: radius, flex: 1, ...style }}

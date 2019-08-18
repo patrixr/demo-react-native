@@ -91,7 +91,8 @@ const styles = StyleSheet.create({
     flexDirection: 'row'
   },
   selected: {
-    fontWeight: 'bold'
+    fontWeight: 'bold',
+    textDecorationLine: 'underline'
   },
   spaced: {
     marginTop: 20
