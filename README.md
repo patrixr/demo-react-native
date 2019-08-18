@@ -1,5 +1,9 @@
 # A React Native Sample
 
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+
 Here is my first react native app, it is a mini social app based on the [JSON Placeholder](https://jsonplaceholder.typicode.com) API
 
 This project runs on the [Expo CLI](https://docs.expo.io/versions/latest/workflow/expo-cli/)
