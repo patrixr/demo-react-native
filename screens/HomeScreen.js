@@ -25,7 +25,7 @@ export default function HomeScreen(props) {
 
   // --- Display error
   if (error) {
-    return <ErrorLabel msg={error.message} retryCb={fetchDatretrya}></ErrorLabel>
+    return <ErrorLabel msg={error.message} retryCb={retry}></ErrorLabel>
   }
 
   // --- Event handlers
