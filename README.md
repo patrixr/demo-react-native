@@ -59,6 +59,7 @@ Steps:
 
 ## Notes on the code
 
+- Wrote a post about this usage of hooks [here](https://dev.to/patrixr/react-writing-a-custom-api-hook-l16)
 - Given it's a demo, the strings have not been stored in any localization file
 - Despite the API returning static data, the pages were still written as if the data was susceptible to change. Meaning there is not a single preload at startup. The pages can still request data multiple time over the lifecycle of the application (although I added a cache to avoid pointless latency) 
 
